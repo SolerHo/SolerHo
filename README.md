@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on C++，also use Python/Shell Scripts.
 - 🌱 I’m currently learning linux network programming
-- 🎯 target : use C++/Python to solve robotics issue( ML | DL | DeepRL | CV )
+- 🎯 target : use C++/Python to solve issue
+  - AI issue ( ML | DL | DeepRL | CV )
+  - hardware programming ( OS | linux Kernel )
 
 <!--
 **SolerHo/SolerHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
