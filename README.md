@@ -3,12 +3,14 @@
 ## Hi guys 👋
 ### welcome to my Blog
 
+##### 👉花名：无至
 
 - 🔭 I’m currently working on C++，also use Python/Shell Scripts.
 - 🌱 I’m currently learning linux network programming
-- 🎯 target : use C++/Python to solve issue
-  - AI issue ( ML | DL | DeepRL | CV )
-  - hardware programming ( OS | linux Kernel )
+- 🎯 target : use `C++/Python` to solve issue
+  - AI issue ( `ML | DL | DeepRL | CV` )
+  - hardware programming ( `OS | linux Kernel` )
+  - Robotics
 
 <!--
 **SolerHo/SolerHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
