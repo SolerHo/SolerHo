@@ -2,7 +2,7 @@
 ## Hi guys 👋
 ### welcome to my Blog
 
-##### 👉花名：无至
+##### 👉花名：无至同学
 
 ### 已具备技能
 - Linux相关：Shell脚本、Kernel问题
