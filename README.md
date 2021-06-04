@@ -19,6 +19,7 @@
 - 版本控制
   - Git
   - SVN（很少用垃圾）
+  - Gerrit（Code Review）
 - AI相关
   - 机器学习
   - 深度学习
