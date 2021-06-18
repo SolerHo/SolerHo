@@ -23,7 +23,7 @@
 | 计算机组成原理 | 【[UC Berkeley CS61C 学习笔记]()】                           |
 | 数据结构       | 【[UC Berkeley CS61B 课程笔记]()】<br />【[浙大版 数据结构 课程学习笔记]()】 |
 | 算法设计与分析 | 【[UC Berkeley CS170 课程笔记]()】                           |
-| 编译器         | 【[Harvard CS153 课程笔记]()】<br />【[Stanford CS143 课程笔记]()】<br />【[Stanford CS243 课程笔记]()】<br />【[Stanford CS343 课程笔记]()】<br />【[CIS 341课程笔记]()】 |
+| 编译器         | 【[Harvard CS153 课程笔记]()】<br />【[Stanford CS143 课程笔记]()】<br />【[Stanford CS243 课程笔记]()】<br />【[Stanford CS343 课程笔记]()】<br />【[CIS 341 课程笔记]()】 |
 
 - Git
 
