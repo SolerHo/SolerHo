@@ -25,6 +25,23 @@
 | 算法设计与分析 | 【[UC Berkeley CS170 课程笔记]()】                           |
 | 编译器         | 【[Harvard CS153 课程笔记]()】<br />【[Stanford CS143 课程笔记]()】<br />【[Stanford CS243 课程笔记]()】<br />【[Stanford CS343 课程笔记]()】<br />【[CIS 341 课程笔记]()】 |
 
+#### 工程管理
+|技能|笔记内容|
+|:--|:--|
+|Git||
+|SVN||
+|Makefile||
+|CMakeLists.txt||
+
+#### Debug技能
+|工具|笔记内容|功能|
+|:--|:--|:--|
+|GDB<br>strace<br>pstack<br>valgrind||GDB：分析程序崩溃的coredump文件<br>strace：跟踪并显示用户程序中的系统调用的详细信息（参数、返回值、系统调用耗费时间等）<br>pstack：查看进程的实时堆栈信息 `pstack PID`<br>valgrind：通常被用于程序内存泄漏检查|
+|cppcheck||
+|||
+
+
+
 - Git
 
 - SVN（很少用垃圾）
