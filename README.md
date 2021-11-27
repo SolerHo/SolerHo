@@ -6,9 +6,10 @@
 <h2 align="center"> GitHub Stats </h2>
 
 <p align="center">
+  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolerHo&lshow_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SolerHo&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SolerHo&theme=tokyonight" />
 </p>
+
 
 <h2 align="center"> Currently Working with </h2> </br>
 
