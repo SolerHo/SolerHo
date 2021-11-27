@@ -30,6 +30,7 @@
 <h2 align="center"> Currently Reviewing Content </h2> </br>
 <p align="center">
   <img src="https://img.icons8.com/color/50/000000/c.png"/>
+  <img src="https://img.icons8.com/color/50/fa314a/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/50/000000/python--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/django.png"/>
   <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
