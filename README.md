@@ -1,7 +1,7 @@
 
 <h2 align="center"> welcome to 小何同学 Blog </h2>
 
-<h2 align="center"> ➡️ 选对了路，坚持坚持再坚持<br> <br>让自己努力成为C/C++开发master</h2>
+<h2 align="center"> ➡️ 选对了路，就坚持坚持再坚持<br>
 
 <h2 align="center"> GitHub Stats </h2>
 
