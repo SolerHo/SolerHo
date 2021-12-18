@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
   <img src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-shadow-tal-revivo.png"/>
 </p>
 
 <h2 align="center"> Currently Studying Content </h2> </br>
