@@ -43,7 +43,7 @@
 <h2 align="center"> Currently Studying Content </h2> </br>
 <p align="center">
   <img src="https://img.icons8.com/color/50/fa314a/c-plus-plus-logo.png"/>
-<!--   <img src="https://img.icons8.com/color/50/000000/golang.png"/> -->
+  <img src="https://img.icons8.com/color/50/000000/golang.png"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/flask.png"/>
   <img src="https://img.icons8.com/color/50/000000/redis.png"/>
   <img src="https://img.icons8.com/color/50/000000/latex.png"/>
