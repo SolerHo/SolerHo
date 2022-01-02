@@ -7,7 +7,7 @@
 
 <p align="center">
   <img width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolerHo&lshow_icons=true&theme=tokyonight" />
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=SolerHo&show_icons=true&theme=tokyonight" />
+  <img width="560" src="https://github-readme-stats.vercel.app/api?username=SolerHo&show_icons=true&theme=tokyonight" />
 </p>
 
 
