@@ -35,9 +35,9 @@
 在此请大家多多指教。
 
 
-|GitHub stats|Most Used Languages|
+|Soler索莱尔HO GitHub stats|Soler索莱尔HO Most Used Languages|
 |--|--|
-|![Soler索莱尔HO GitHub stats](https://github-readme-stats.vercel.app/api?username=SolerHo&theme=radical&show_icons=true)  |![Soler索莱尔HO Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolerHo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)|
+|![Soler索莱尔HO GitHub stats](https://github-readme-stats.vercel.app/api?username=SolerHo&theme=radical&show_icons=true)  |![Soler索莱尔HO Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolerHo&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)|
 
 
 
