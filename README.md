@@ -45,12 +45,12 @@
 
 <h2 align="center"> Notes Lists </h2>
 
-|Repo Name|描述|Stars|Forks|
-|--|--|--|--|
+|Repo Name|描述|Stars|Forks|主要语言|
+|--|--|--|--|--|
 |[database-kernel-develop](https://github.com/SolerHo/database-kernel-develop)|数据库基础和内核相关笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/database-kernel-develop?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/database-kernel-develop?style=plastic)|
-[cpp-Primer-Plus-6e-Notes](https://github.com/SolerHo/cpp-Primer-Plus-6e-Notes)|《C++ Primer Plus》第6版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/cpp-Primer-Plus-6e-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/cpp-Primer-Plus-6e-Notes?style=plastic)|
-[CprimerPlus-6e-Notes](https://github.com/SolerHo/CprimerPlus-6e-Notes)|《C Primer Plus》第6版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/CprimerPlus-6e-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/CprimerPlus-6e-Notes?style=plastic)|
-[geeks-shell](https://github.com/SolerHo/geeks-shell)|Shell脚本常用语法学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/geeks-shell?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/geeks-shell?style=plastic)|
+[cpp-Primer-Plus-6e-Notes](https://github.com/SolerHo/cpp-Primer-Plus-6e-Notes)|《C++ Primer Plus》第6版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/cpp-Primer-Plus-6e-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/cpp-Primer-Plus-6e-Notes?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/SolerHo/cpp-Primer-Plus-6e-Notes)|
+[CprimerPlus-6e-Notes](https://github.com/SolerHo/CprimerPlus-6e-Notes)|《C Primer Plus》第6版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/CprimerPlus-6e-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/CprimerPlus-6e-Notes?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/SolerHo/CprimerPlus-6e-Notes)|
+[geeks-shell](https://github.com/SolerHo/geeks-shell)|Shell脚本常用语法学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/geeks-shell?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/geeks-shell?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/SolerHo/geeks-shell)|
 [cpp-primer-5e-notes](https://github.com/SolerHo/cpp-primer-5e-notes)|《C++ Primer》第5版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/cpp-primer-5e-notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/cpp-primer-5e-notes?style=plastic)|
 [linux-kernel-development-3rd-Notes](https://github.com/SolerHo/linux-kernel-development-3rd-Notes)|《Linux内核设计与实现》第3版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/linux-kernel-development-3rd-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/linux-kernel-development-3rd-Notes?style=plastic)|
 [understanding-linux-network-internals-Notes](https://github.com/SolerHo/understanding-linux-network-internals-Notes)|《深入理解Linux网络技术内幕》学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/understanding-linux-network-internals-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/understanding-linux-network-internals-Notes?style=plastic)|
