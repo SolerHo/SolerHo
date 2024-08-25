@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=记住该记住的，忘记该忘记的！;改变能改变的，接受不能改变的！&center=true&size=27&color=32D728FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=过去无可挽回，未来可以改变!&center=true&size=27&color=32D728FF">
 </div>
 
 <!-- [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -29,18 +29,32 @@
 
 💻 曾从事半导体算子开发和Tensorflow框架优化开发，现目前从事车企嵌入式开发
 
+💻 Worked on semiconductor operator development and Tensorflow framework optimization development, and is currently engaged in automotive embedded development
+
+
 ✅ 主要使用语言：C/C++、Shell、Python
 
+✅ Main languages ​​used: C/C++, Shell, Python
+
 📚 业余HPC 和 编译器玩家。工作之外的主要研究重点：计算机体系结构、OS 和 编译器。
+
+📚 Amateur HPC and compiler player. Main research focus outside of work: computer architecture, OS and compiler.
 
 📌 下一步：
   - 学习Linux内核网络模块，增强工作解决问题能力
   - HPC 和 CUDA编程
   - 复习编译器
 
-👨‍💻 博客：http://www.xiaohe7.com/
+📌 Next step:
+- Learn Linux kernel network module to enhance work problem-solving ability
+- HPC and CUDA programming
+- Review compiler
+
+👨‍💻 博客 (Blog) ：http://www.xiaohe7.com/
 
 🤝 欢迎交流和多多指教。
+
+🤝 Welcome to communicate and give more advice.
 
 
 <h2 align="center"> Notes Lists </h2>
