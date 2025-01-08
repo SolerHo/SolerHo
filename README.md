@@ -69,7 +69,7 @@
 [linux-kernel-development-3rd-Notes](https://github.com/SolerHo/linux-kernel-development-3rd-Notes)|《Linux内核设计与实现》第3版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/linux-kernel-development-3rd-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/linux-kernel-development-3rd-Notes?style=plastic)|
 [understanding-linux-network-internals-Notes](https://github.com/SolerHo/understanding-linux-network-internals-Notes)|《深入理解Linux网络技术内幕》学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/understanding-linux-network-internals-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/understanding-linux-network-internals-Notes?style=plastic)|
 [OSDI-3-Edition](https://github.com/SolerHo/OSDI-3-Edition)|《操作系统设计与实现》第三版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/OSDI-3-Edition?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/OSDI-3-Edition?style=plastic)|
-[apue-3rd-Notes](https://github.com/SolerHo/apue-3rd-Notes)|《Unix环境高级编程》 第3版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/apue-3rd-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/apue-3rd-Notes?style=plastic)|
+[apue-3rd-Notes](https://github.com/SolerHo/apue-3rd-Notes)|《Unix环境高级编程》 第3版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/apue-3rd-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/apue-3rd-Notes?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/SolerHo/apue-3rd-Notes)|
 |||||||||||||||||||||||
 
 <!-- https://shields.io/badges/gitea-stars -->
