@@ -27,9 +27,9 @@
 
 👋 Hi, I'm SolerHO
 
-💻 曾从事半导体算子开发和Tensorflow框架优化开发，现目前从事车企嵌入式开发
+💻 曾从事算子开发和Tensorflow框架优化开发，现目前从事车企嵌入式开发
 
-💻 Worked on semiconductor operator development and Tensorflow framework optimization development, and is currently engaged in automotive embedded development
+💻 Worked on operator development and Tensorflow framework optimization development, and is currently engaged in automotive embedded development
 
 
 ✅ 主要使用语言：C/C++、Shell、Python
@@ -70,6 +70,7 @@
 [understanding-linux-network-internals-Notes](https://github.com/SolerHo/understanding-linux-network-internals-Notes)|《深入理解Linux网络技术内幕》学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/understanding-linux-network-internals-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/understanding-linux-network-internals-Notes?style=plastic)|
 [OSDI-3-Edition](https://github.com/SolerHo/OSDI-3-Edition)|《操作系统设计与实现》第三版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/OSDI-3-Edition?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/OSDI-3-Edition?style=plastic)|
 [apue-3rd-Notes](https://github.com/SolerHo/apue-3rd-Notes)|《Unix环境高级编程》 第3版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/apue-3rd-Notes?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/apue-3rd-Notes?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/SolerHo/apue-3rd-Notes)|
+[apue-3rd-Notes]([https://github.com/SolerHo/apue-3rd-Notes](https://github.com/SolerHo/dragon-book_notes))|龙书《编译原理》 第2版 学习笔记|![GitHub Repo stars](https://img.shields.io/github/stars/SolerHo/dragon-book_notes)|![GitHub forks](https://img.shields.io/github/forks/SolerHo/dragon-book_notes)|![GitHub top language](https://img.shields.io/github/languages/top/SolerHo/dragon-book_notes)|
 |||||||||||||||||||||||
 
 <!-- https://shields.io/badges/gitea-stars -->
